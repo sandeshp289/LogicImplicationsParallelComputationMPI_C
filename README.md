@@ -2,7 +2,7 @@
 
 Description:
 
-    Parallel Computation of Static Logic Implications using MPI and C
+    Parallel Computation of Static Logic Implications (Direct, Indirect, Contrapositive) using MPI and C
 
     implications_parallel.c                       : C/C++ code
 
